@@ -10,7 +10,7 @@
   
 🌱 Actualmente estudio un FP de Desarrollo de aplicaciones WEB **(https://www.cifprodolfoucha.es/)**
  
-💬 Ask me about HTML , JavaScript ,CSS , SQL ... or anything [here]((https://github.com/BruhoCS))**
+💬 Ask me about HTML , JavaScript ,CSS , SQL ... or anything [here](https://github.com/BruhoCS)**
 
 ⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
 
