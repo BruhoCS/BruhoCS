@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🌱 I’m currently doing an internship in web development at **[STGO](https://stgo.es/)**
+🌱 Actualmente estudio un FP de Desarrollo de aplicaciones WEB **(https://www.cifprodolfoucha.es/)**
  
-💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
+💬 Ask me about HTML , JavaScript ,CSS , SQL ... or anything [here]((https://github.com/BruhoCS))**
 
 ⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
 
@@ -34,13 +34,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pabloseijo/pabloseijo/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
