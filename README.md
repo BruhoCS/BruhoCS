@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,vscode,linux,bash,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,obsidian,docker,apple,discord,postman" />
 <br/>
 <hr/>
 
