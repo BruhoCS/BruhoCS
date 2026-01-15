@@ -8,11 +8,9 @@
 
 <div align="center">
   
-🌱 Actualmente estudio un FP de Desarrollo de aplicaciones WEB **(https://www.cifprodolfoucha.es/)**
+🌱 Soy Técnico Superior en Desarrollo de aplicaciones WEB 
  
-💬 Ask me about HTML , JavaScript ,CSS , SQL ... or anything [here](https://github.com/BruhoCS)**
-
-⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
+💬 Preguntame sobre Angular , Laravel ,N8N , SQL,Power Platform ... o cualquier cosa [aquí](https://github.com/BruhoCS)**
 
  </div>
 
