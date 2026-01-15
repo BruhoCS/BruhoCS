@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,vscode,linux,bash,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,n8n,obsidian,docker,apple,discord,postman" />
+    <img src="https://skillicons.dev/icons?i=react,angular,obsidian,docker,discord,postman" />
 <br/>
 <hr/>
 
