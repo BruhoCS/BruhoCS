@@ -50,24 +50,6 @@
   <img src="https://img.shields.io/badge/Hardening-2b2b2b?style=for-the-badge" />
 </div>
 
-<hr/>
-
-<h2 align="center">🏆 Trofeos 🏆</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BruhoCS&theme=algolia&no-frame=true&column=7&margin-w=8" />
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=BruhoCS&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=BruhoCS&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruhoCS&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
-</div>
-
 <br/>
 
 <p align="center">
